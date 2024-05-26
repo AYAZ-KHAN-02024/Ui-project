@@ -1,3 +1,3 @@
 # UI project
 
-# live link - https://ayaz-homepage-ui.netlify.app
+<a href="https://ayaz-homepage-ui.netlify.app" target="_blank"> live link or hosted link</a>
